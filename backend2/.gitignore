@@ -1,0 +1,6 @@
+.cache/
+dist/
+node_modules/
+.idea/
+keycertz/
+.env
